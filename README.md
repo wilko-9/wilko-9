@@ -10,7 +10,7 @@ my favorite programming languages are:
 
 ## friends
 - [gio](https://github.com/YoyloNerd)
-- [Charli](https://github.com/CharliVanNood/CharliVanNood/blob/main/README.md)
+- [Charli](https://github.com/CharliVanNood)
 
 --- 
 thank you for visiting
