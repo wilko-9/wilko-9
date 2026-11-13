@@ -9,8 +9,8 @@ my favorite programming languages are:
 - Go
 
 ## friends
-[gio](https://github.com/YoyloNerd)
-[Charli](https://github.com/CharliVanNood/CharliVanNood/blob/main/README.md)
+- [gio](https://github.com/YoyloNerd)
+- [Charli](https://github.com/CharliVanNood/CharliVanNood/blob/main/README.md)
 
 --- 
 thank you for visiting
